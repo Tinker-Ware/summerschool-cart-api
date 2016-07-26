@@ -1,5 +1,5 @@
 {
-  "name": "summerschool-frontend-cart-api",
+  "name": "summerschool-cart-api",
   "version": "1.0.0",
   "description": "API documentation to run cart server",
   "scripts": {
@@ -18,6 +18,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tinker-Ware/summerschool-frontend-cart-api"
+    "url": "https://github.com/Tinker-Ware/summerschool-cart-api"
   }
 }

@@ -1,6 +1,6 @@
-# Summer School - Frontend Cart API
+# Summer School - Cart API
 
-[![Dependency Status](https://david-dm.org/Tinker-Ware/summerschool-frontend-cart-api.svg?style=flat-square)](https://david-dm.org/Tinker-Ware/summerschool-frontend-cart-api)
+[![Dependency Status](https://david-dm.org/Tinker-Ware/summerschool-cart-api.svg?style=flat-square)](https://david-dm.org/Tinker-Ware/summerschool-cart-api)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 
